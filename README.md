@@ -14,4 +14,7 @@ adasdasds
 
 totalne szaltw
 
-mega duzo nowych informacji
+mega duzo nowych informacj
+
+
+rozwoj pliku
