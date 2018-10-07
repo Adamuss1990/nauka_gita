@@ -11,3 +11,7 @@ sssssss
 
 
 adasdasds
+
+totalne szaltw
+
+mega duzo nowych informacji
