@@ -4,4 +4,4 @@ git merge
 git checkout
 git push
 
- 
+git merge - laczenie plikow
